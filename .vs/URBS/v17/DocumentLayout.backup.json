@@ -7,20 +7,20 @@
       "RelativeMoniker": "D:0:0:{933117C9-9016-49EC-B54B-DA0CE5C47524}|URBS\\URBS.csproj|solutionrelative:urbs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{933117C9-9016-49EC-B54B-DA0CE5C47524}|URBS\\URBS.csproj|c:\\users\\yassen.ashraf\\source\\repos\\urbs\\urbs\\controllers\\driverscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{933117C9-9016-49EC-B54B-DA0CE5C47524}|URBS\\URBS.csproj|solutionrelative:urbs\\controllers\\driverscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{933117C9-9016-49EC-B54B-DA0CE5C47524}|URBS\\URBS.csproj|c:\\users\\yassen.ashraf\\source\\repos\\urbs\\urbs\\repo\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{933117C9-9016-49EC-B54B-DA0CE5C47524}|URBS\\URBS.csproj|solutionrelative:urbs\\repo\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{933117C9-9016-49EC-B54B-DA0CE5C47524}|URBS\\URBS.csproj|c:\\users\\yassen.ashraf\\source\\repos\\urbs\\urbs\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{933117C9-9016-49EC-B54B-DA0CE5C47524}|URBS\\URBS.csproj|solutionrelative:urbs\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{933117C9-9016-49EC-B54B-DA0CE5C47524}|URBS\\URBS.csproj|c:\\users\\yassen.ashraf\\source\\repos\\urbs\\urbs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{933117C9-9016-49EC-B54B-DA0CE5C47524}|URBS\\URBS.csproj|solutionrelative:urbs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{933117C9-9016-49EC-B54B-DA0CE5C47524}|URBS\\URBS.csproj|c:\\users\\yassen.ashraf\\source\\repos\\urbs\\urbs\\controllers\\driverscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{933117C9-9016-49EC-B54B-DA0CE5C47524}|URBS\\URBS.csproj|solutionrelative:urbs\\controllers\\driverscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{933117C9-9016-49EC-B54B-DA0CE5C47524}|URBS\\URBS.csproj|c:\\users\\yassen.ashraf\\source\\repos\\urbs\\urbs\\repo\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{933117C9-9016-49EC-B54B-DA0CE5C47524}|URBS\\URBS.csproj|solutionrelative:urbs\\repo\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{933117C9-9016-49EC-B54B-DA0CE5C47524}|URBS\\URBS.csproj|c:\\users\\yassen.ashraf\\source\\repos\\urbs\\urbs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{933117C9-9016-49EC-B54B-DA0CE5C47524}|URBS\\URBS.csproj|solutionrelative:urbs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{933117C9-9016-49EC-B54B-DA0CE5C47524}|URBS\\URBS.csproj|c:\\users\\yassen.ashraf\\source\\repos\\urbs\\urbs\\repo\\abstraction\\iuserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -98,15 +98,16 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "UserRepo.cs",
               "DocumentMoniker": "C:\\Users\\yassen.ashraf\\source\\repos\\URBS\\URBS\\Repo\\UserRepo.cs",
               "RelativeDocumentMoniker": "URBS\\Repo\\UserRepo.cs",
               "ToolTip": "C:\\Users\\yassen.ashraf\\source\\repos\\URBS\\URBS\\Repo\\UserRepo.cs",
               "RelativeToolTip": "URBS\\Repo\\UserRepo.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAQwBIAAABMAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABIAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T10:29:51.916Z"
+              "WhenOpened": "2026-10-14T10:29:51.916Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -116,14 +117,14 @@
               "RelativeDocumentMoniker": "URBS\\Controllers\\AuthController.cs",
               "ToolTip": "C:\\Users\\yassen.ashraf\\source\\repos\\URBS\\URBS\\Controllers\\AuthController.cs",
               "RelativeToolTip": "URBS\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAswEIAAABTAAAAAAAAAA==",
+              "ViewState": "AgIAAD4AAAAAAAAAAADwv0IAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-14T10:10:13.499Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "DriversController.cs",
               "DocumentMoniker": "C:\\Users\\yassen.ashraf\\source\\repos\\URBS\\URBS\\Controllers\\DriversController.cs",
               "RelativeDocumentMoniker": "URBS\\Controllers\\DriversController.cs",
@@ -140,16 +141,16 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\yassen.ashraf\\source\\repos\\URBS\\URBS\\Program.cs",
               "RelativeDocumentMoniker": "URBS\\Program.cs",
-              "ToolTip": "C:\\Users\\yassen.ashraf\\source\\repos\\URBS\\URBS\\Program.cs*",
-              "RelativeToolTip": "URBS\\Program.cs*",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwCQAAAASAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\yassen.ashraf\\source\\repos\\URBS\\URBS\\Program.cs",
+              "RelativeToolTip": "URBS\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCQAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-14T07:37:37.83Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\yassen.ashraf\\source\\repos\\URBS\\URBS\\appsettings.json",
               "RelativeDocumentMoniker": "URBS\\appsettings.json",

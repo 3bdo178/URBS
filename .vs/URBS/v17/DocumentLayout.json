@@ -106,8 +106,7 @@
               "RelativeToolTip": "URBS\\Repo\\UserRepo.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAAABIAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T10:29:51.916Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-14T10:29:51.916Z"
             },
             {
               "$type": "Document",
@@ -119,8 +118,7 @@
               "RelativeToolTip": "URBS\\Controllers\\AuthController.cs",
               "ViewState": "AgIAAD4AAAAAAAAAAADwv0IAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T10:10:13.499Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-14T10:10:13.499Z"
             },
             {
               "$type": "Document",
@@ -132,8 +130,7 @@
               "RelativeToolTip": "URBS\\Controllers\\DriversController.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAgwBgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T10:12:03.138Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-14T10:12:03.138Z"
             },
             {
               "$type": "Document",
@@ -143,7 +140,7 @@
               "RelativeDocumentMoniker": "URBS\\Program.cs",
               "ToolTip": "C:\\Users\\yassen.ashraf\\source\\repos\\URBS\\URBS\\Program.cs",
               "RelativeToolTip": "URBS\\Program.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwCQAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCQAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-14T07:37:37.83Z",
               "EditorCaption": ""
