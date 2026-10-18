@@ -1,0 +1,359 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yassen.ashraf\\source\\repos\\URBS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{933117C9-9016-49EC-B54B-DA0CE5C47524}|URBS\\URBS.csproj|c:\\users\\yassen.ashraf\\source\\repos\\urbs\\urbs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{933117C9-9016-49EC-B54B-DA0CE5C47524}|URBS\\URBS.csproj|solutionrelative:urbs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{933117C9-9016-49EC-B54B-DA0CE5C47524}|URBS\\URBS.csproj|c:\\users\\yassen.ashraf\\source\\repos\\urbs\\urbs\\controllers\\driverscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{933117C9-9016-49EC-B54B-DA0CE5C47524}|URBS\\URBS.csproj|solutionrelative:urbs\\controllers\\driverscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{933117C9-9016-49EC-B54B-DA0CE5C47524}|URBS\\URBS.csproj|c:\\users\\yassen.ashraf\\source\\repos\\urbs\\urbs\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{933117C9-9016-49EC-B54B-DA0CE5C47524}|URBS\\URBS.csproj|solutionrelative:urbs\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{933117C9-9016-49EC-B54B-DA0CE5C47524}|URBS\\URBS.csproj|c:\\users\\yassen.ashraf\\source\\repos\\urbs\\urbs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{933117C9-9016-49EC-B54B-DA0CE5C47524}|URBS\\URBS.csproj|solutionrelative:urbs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{933117C9-9016-49EC-B54B-DA0CE5C47524}|URBS\\URBS.csproj|c:\\users\\yassen.ashraf\\source\\repos\\urbs\\urbs\\repo\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{933117C9-9016-49EC-B54B-DA0CE5C47524}|URBS\\URBS.csproj|solutionrelative:urbs\\repo\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{933117C9-9016-49EC-B54B-DA0CE5C47524}|URBS\\URBS.csproj|c:\\users\\yassen.ashraf\\source\\repos\\urbs\\urbs\\repo\\abstraction\\iuserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{933117C9-9016-49EC-B54B-DA0CE5C47524}|URBS\\URBS.csproj|solutionrelative:urbs\\repo\\abstraction\\iuserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{933117C9-9016-49EC-B54B-DA0CE5C47524}|URBS\\URBS.csproj|c:\\users\\yassen.ashraf\\source\\repos\\urbs\\urbs\\profiles\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{933117C9-9016-49EC-B54B-DA0CE5C47524}|URBS\\URBS.csproj|solutionrelative:urbs\\profiles\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{933117C9-9016-49EC-B54B-DA0CE5C47524}|URBS\\URBS.csproj|c:\\users\\yassen.ashraf\\source\\repos\\urbs\\urbs\\dtos\\driverdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{933117C9-9016-49EC-B54B-DA0CE5C47524}|URBS\\URBS.csproj|solutionrelative:urbs\\dtos\\driverdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{933117C9-9016-49EC-B54B-DA0CE5C47524}|URBS\\URBS.csproj|c:\\users\\yassen.ashraf\\source\\repos\\urbs\\urbs\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{933117C9-9016-49EC-B54B-DA0CE5C47524}|URBS\\URBS.csproj|solutionrelative:urbs\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{933117C9-9016-49EC-B54B-DA0CE5C47524}|URBS\\URBS.csproj|c:\\users\\yassen.ashraf\\source\\repos\\urbs\\urbs\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{933117C9-9016-49EC-B54B-DA0CE5C47524}|URBS\\URBS.csproj|solutionrelative:urbs\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{933117C9-9016-49EC-B54B-DA0CE5C47524}|URBS\\URBS.csproj|c:\\users\\yassen.ashraf\\source\\repos\\urbs\\urbs\\unit o\u0027 work\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{933117C9-9016-49EC-B54B-DA0CE5C47524}|URBS\\URBS.csproj|solutionrelative:urbs\\unit o\u0027 work\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{933117C9-9016-49EC-B54B-DA0CE5C47524}|URBS\\URBS.csproj|c:\\users\\yassen.ashraf\\source\\repos\\urbs\\urbs\\unit o\u0027 work\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{933117C9-9016-49EC-B54B-DA0CE5C47524}|URBS\\URBS.csproj|solutionrelative:urbs\\unit o\u0027 work\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{933117C9-9016-49EC-B54B-DA0CE5C47524}|URBS\\URBS.csproj|c:\\users\\yassen.ashraf\\source\\repos\\urbs\\urbs\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{933117C9-9016-49EC-B54B-DA0CE5C47524}|URBS\\URBS.csproj|solutionrelative:urbs\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{933117C9-9016-49EC-B54B-DA0CE5C47524}|URBS\\URBS.csproj|c:\\users\\yassen.ashraf\\source\\repos\\urbs\\urbs\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{933117C9-9016-49EC-B54B-DA0CE5C47524}|URBS\\URBS.csproj|solutionrelative:urbs\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{933117C9-9016-49EC-B54B-DA0CE5C47524}|URBS\\URBS.csproj|c:\\users\\yassen.ashraf\\source\\repos\\urbs\\urbs\\models\\ride.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{933117C9-9016-49EC-B54B-DA0CE5C47524}|URBS\\URBS.csproj|solutionrelative:urbs\\models\\ride.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{933117C9-9016-49EC-B54B-DA0CE5C47524}|URBS\\URBS.csproj|c:\\users\\yassen.ashraf\\source\\repos\\urbs\\urbs\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{933117C9-9016-49EC-B54B-DA0CE5C47524}|URBS\\URBS.csproj|solutionrelative:urbs\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{933117C9-9016-49EC-B54B-DA0CE5C47524}|URBS\\URBS.csproj|c:\\users\\yassen.ashraf\\source\\repos\\urbs\\urbs\\models\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{933117C9-9016-49EC-B54B-DA0CE5C47524}|URBS\\URBS.csproj|solutionrelative:urbs\\models\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{933117C9-9016-49EC-B54B-DA0CE5C47524}|URBS\\URBS.csproj|c:\\users\\yassen.ashraf\\source\\repos\\urbs\\urbs\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{933117C9-9016-49EC-B54B-DA0CE5C47524}|URBS\\URBS.csproj|solutionrelative:urbs\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{933117C9-9016-49EC-B54B-DA0CE5C47524}|URBS\\URBS.csproj|c:\\users\\yassen.ashraf\\source\\repos\\urbs\\urbs\\repo\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{933117C9-9016-49EC-B54B-DA0CE5C47524}|URBS\\URBS.csproj|solutionrelative:urbs\\repo\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{933117C9-9016-49EC-B54B-DA0CE5C47524}|URBS\\URBS.csproj|c:\\users\\yassen.ashraf\\source\\repos\\urbs\\urbs\\repo\\abstraction\\igenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{933117C9-9016-49EC-B54B-DA0CE5C47524}|URBS\\URBS.csproj|solutionrelative:urbs\\repo\\abstraction\\igenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{933117C9-9016-49EC-B54B-DA0CE5C47524}|URBS\\URBS.csproj|c:\\users\\yassen.ashraf\\source\\repos\\urbs\\urbs\\migrations\\20261014095847_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{933117C9-9016-49EC-B54B-DA0CE5C47524}|URBS\\URBS.csproj|solutionrelative:urbs\\migrations\\20261014095847_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRepo.cs",
+              "DocumentMoniker": "C:\\Users\\yassen.ashraf\\source\\repos\\URBS\\URBS\\Repo\\UserRepo.cs",
+              "RelativeDocumentMoniker": "URBS\\Repo\\UserRepo.cs",
+              "ToolTip": "C:\\Users\\yassen.ashraf\\source\\repos\\URBS\\URBS\\Repo\\UserRepo.cs",
+              "RelativeToolTip": "URBS\\Repo\\UserRepo.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwBIAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T10:29:51.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\yassen.ashraf\\source\\repos\\URBS\\URBS\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "URBS\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\yassen.ashraf\\source\\repos\\URBS\\URBS\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "URBS\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAswEIAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T10:10:13.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DriversController.cs",
+              "DocumentMoniker": "C:\\Users\\yassen.ashraf\\source\\repos\\URBS\\URBS\\Controllers\\DriversController.cs",
+              "RelativeDocumentMoniker": "URBS\\Controllers\\DriversController.cs",
+              "ToolTip": "C:\\Users\\yassen.ashraf\\source\\repos\\URBS\\URBS\\Controllers\\DriversController.cs",
+              "RelativeToolTip": "URBS\\Controllers\\DriversController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T10:12:03.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yassen.ashraf\\source\\repos\\URBS\\URBS\\Program.cs",
+              "RelativeDocumentMoniker": "URBS\\Program.cs",
+              "ToolTip": "C:\\Users\\yassen.ashraf\\source\\repos\\URBS\\URBS\\Program.cs*",
+              "RelativeToolTip": "URBS\\Program.cs*",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T07:37:37.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\yassen.ashraf\\source\\repos\\URBS\\URBS\\appsettings.json",
+              "RelativeDocumentMoniker": "URBS\\appsettings.json",
+              "ToolTip": "C:\\Users\\yassen.ashraf\\source\\repos\\URBS\\URBS\\appsettings.json",
+              "RelativeToolTip": "URBS\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-14T10:17:03.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUserRepo.cs",
+              "DocumentMoniker": "C:\\Users\\yassen.ashraf\\source\\repos\\URBS\\URBS\\Repo\\Abstraction\\IUserRepo.cs",
+              "RelativeDocumentMoniker": "URBS\\Repo\\Abstraction\\IUserRepo.cs",
+              "ToolTip": "C:\\Users\\yassen.ashraf\\source\\repos\\URBS\\URBS\\Repo\\Abstraction\\IUserRepo.cs",
+              "RelativeToolTip": "URBS\\Repo\\Abstraction\\IUserRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T10:28:31.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DriverDto.cs",
+              "DocumentMoniker": "C:\\Users\\yassen.ashraf\\source\\repos\\URBS\\URBS\\Dtos\\DriverDto.cs",
+              "RelativeDocumentMoniker": "URBS\\Dtos\\DriverDto.cs",
+              "ToolTip": "C:\\Users\\yassen.ashraf\\source\\repos\\URBS\\URBS\\Dtos\\DriverDto.cs",
+              "RelativeToolTip": "URBS\\Dtos\\DriverDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T11:46:17.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\yassen.ashraf\\source\\repos\\URBS\\URBS\\Models\\User.cs",
+              "RelativeDocumentMoniker": "URBS\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\yassen.ashraf\\source\\repos\\URBS\\URBS\\Models\\User.cs",
+              "RelativeToolTip": "URBS\\Models\\User.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T07:09:12.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserProfile.cs",
+              "DocumentMoniker": "C:\\Users\\yassen.ashraf\\source\\repos\\URBS\\URBS\\Profiles\\UserProfile.cs",
+              "RelativeDocumentMoniker": "URBS\\Profiles\\UserProfile.cs",
+              "ToolTip": "C:\\Users\\yassen.ashraf\\source\\repos\\URBS\\URBS\\Profiles\\UserProfile.cs",
+              "RelativeToolTip": "URBS\\Profiles\\UserProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T10:24:08.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\yassen.ashraf\\source\\repos\\URBS\\URBS\\Dtos\\LoginDto.cs",
+              "RelativeDocumentMoniker": "URBS\\Dtos\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\yassen.ashraf\\source\\repos\\URBS\\URBS\\Dtos\\LoginDto.cs",
+              "RelativeToolTip": "URBS\\Dtos\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T11:02:43.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\yassen.ashraf\\source\\repos\\URBS\\URBS\\Unit O\u0027 Work\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "URBS\\Unit O\u0027 Work\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\yassen.ashraf\\source\\repos\\URBS\\URBS\\Unit O\u0027 Work\\IUnitOfWork.cs",
+              "RelativeToolTip": "URBS\\Unit O\u0027 Work\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T10:01:23.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\yassen.ashraf\\source\\repos\\URBS\\URBS\\Unit O\u0027 Work\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "URBS\\Unit O\u0027 Work\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\yassen.ashraf\\source\\repos\\URBS\\URBS\\Unit O\u0027 Work\\UnitOfWork.cs",
+              "RelativeToolTip": "URBS\\Unit O\u0027 Work\\UnitOfWork.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA9wBMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T10:03:04.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\yassen.ashraf\\source\\repos\\URBS\\URBS\\Dtos\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "URBS\\Dtos\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\yassen.ashraf\\source\\repos\\URBS\\URBS\\Dtos\\RegisterDto.cs",
+              "RelativeToolTip": "URBS\\Dtos\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T10:19:58.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20261014095847_init.cs",
+              "DocumentMoniker": "C:\\Users\\yassen.ashraf\\source\\repos\\URBS\\URBS\\Migrations\\20261014095847_init.cs",
+              "RelativeDocumentMoniker": "URBS\\Migrations\\20261014095847_init.cs",
+              "ToolTip": "C:\\Users\\yassen.ashraf\\source\\repos\\URBS\\URBS\\Migrations\\20261014095847_init.cs",
+              "RelativeToolTip": "URBS\\Migrations\\20261014095847_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T09:58:47.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\yassen.ashraf\\source\\repos\\URBS\\URBS\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "URBS\\Models\\Payment.cs",
+              "ToolTip": "C:\\Users\\yassen.ashraf\\source\\repos\\URBS\\URBS\\Models\\Payment.cs",
+              "RelativeToolTip": "URBS\\Models\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T07:19:43.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Ride.cs",
+              "DocumentMoniker": "C:\\Users\\yassen.ashraf\\source\\repos\\URBS\\URBS\\Models\\Ride.cs",
+              "RelativeDocumentMoniker": "URBS\\Models\\Ride.cs",
+              "ToolTip": "C:\\Users\\yassen.ashraf\\source\\repos\\URBS\\URBS\\Models\\Ride.cs",
+              "RelativeToolTip": "URBS\\Models\\Ride.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T07:15:39.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\yassen.ashraf\\source\\repos\\URBS\\URBS\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "URBS\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\yassen.ashraf\\source\\repos\\URBS\\URBS\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "URBS\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowBEAAACcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T06:58:39.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Rating.cs",
+              "DocumentMoniker": "C:\\Users\\yassen.ashraf\\source\\repos\\URBS\\URBS\\Models\\Rating.cs",
+              "RelativeDocumentMoniker": "URBS\\Models\\Rating.cs",
+              "ToolTip": "C:\\Users\\yassen.ashraf\\source\\repos\\URBS\\URBS\\Models\\Rating.cs",
+              "RelativeToolTip": "URBS\\Models\\Rating.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T07:21:49.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\yassen.ashraf\\source\\repos\\URBS\\URBS\\Models\\Vehicle.cs",
+              "RelativeDocumentMoniker": "URBS\\Models\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\yassen.ashraf\\source\\repos\\URBS\\URBS\\Models\\Vehicle.cs",
+              "RelativeToolTip": "URBS\\Models\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T07:11:53.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GenericRepo.cs",
+              "DocumentMoniker": "C:\\Users\\yassen.ashraf\\source\\repos\\URBS\\URBS\\Repo\\GenericRepo.cs",
+              "RelativeDocumentMoniker": "URBS\\Repo\\GenericRepo.cs",
+              "ToolTip": "C:\\Users\\yassen.ashraf\\source\\repos\\URBS\\URBS\\Repo\\GenericRepo.cs",
+              "RelativeToolTip": "URBS\\Repo\\GenericRepo.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAIwCQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T06:59:07.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IGenericRepo.cs",
+              "DocumentMoniker": "C:\\Users\\yassen.ashraf\\source\\repos\\URBS\\URBS\\Repo\\Abstraction\\IGenericRepo.cs",
+              "RelativeDocumentMoniker": "URBS\\Repo\\Abstraction\\IGenericRepo.cs",
+              "ToolTip": "C:\\Users\\yassen.ashraf\\source\\repos\\URBS\\URBS\\Repo\\Abstraction\\IGenericRepo.cs",
+              "RelativeToolTip": "URBS\\Repo\\Abstraction\\IGenericRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T06:55:06.27Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
